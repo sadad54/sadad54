@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Adnan Mashrur Sadad — AI and Software Engineer</title>
+<desc id="desc">Build the system. Show the evidence. An abstract connected evidence constellation on a charcoal background.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111a21"/><stop offset="1" stop-color="#0a1017"/></linearGradient><radialGradient id="glow"><stop stop-color="#58dcb8" stop-opacity=".13"/><stop offset="1" stop-color="#58dcb8" stop-opacity="0"/></radialGradient><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#97b1bd" opacity=".14"/></pattern></defs>
+<rect width="1200" height="440" rx="22" fill="url(#bg)"/><rect width="1200" height="440" rx="22" fill="url(#grid)"/>
+<ellipse cx="982" cy="230" rx="260" ry="260" fill="url(#glow)"/>
+<rect x="46" y="40" width="38" height="38" rx="10" fill="#c6f6dc"/>
+<text x="65" y="65" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#101b1b">S.</text>
+<text x="100" y="64" font-family="Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#c7d1d7">ADNAN MASHRUR SADAD</text>
+<text x="48" y="155" font-family="Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#8ee8bc">AI &amp; SOFTWARE ENGINEER</text>
+<text x="44" y="224" font-family="Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#f6f3e9">Build the system.</text>
+<text x="44" y="290" font-family="Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#c6f6dc">Show the evidence.</text>
+<text x="48" y="343" font-family="Arial,sans-serif" font-size="18" fill="#aabac4">Applied AI. Full-stack products. Measured ML.</text>
+<line x1="48" y1="379" x2="1152" y2="379" stroke="#2c3d45"/>
+<circle cx="53" cy="408" r="4" fill="#8ee8bc"/><text x="68" y="413" font-family="Arial,sans-serif" font-size="13" letter-spacing="1" fill="#b5c4cb">KUALA LUMPUR, MY</text>
+<text x="1152" y="413" text-anchor="end" font-family="monospace" font-size="13" fill="#899fa8">@sadad54 / engineer &amp; builder</text>
+<g fill="none" stroke="#385a58" stroke-width="1.5">
+<path d="M809 124 L918 96 L1086 136 L1100 264 L1002 327 L844 291 L809 124 L985 215 L1086 136 M918 96 L985 215 L844 291 M985 215 L1100 264 M985 215 L1002 327"/>
+<circle cx="985" cy="215" r="73" stroke-dasharray="3 8" opacity=".75"/>
+<circle cx="985" cy="215" r="122" stroke="#24403e" opacity=".7"/>
+</g>
+<g fill="#10232a" stroke="#698f8a" stroke-width="1.5">
+<circle cx="809" cy="124" r="8"/><circle cx="918" cy="96" r="6"/><circle cx="1086" cy="136" r="9"/><circle cx="1100" cy="264" r="7"/><circle cx="1002" cy="327" r="6"/><circle cx="844" cy="291" r="8"/>
+</g>
+<circle cx="985" cy="215" r="32" fill="#152c2b" stroke="#8ee8bc" stroke-width="1.5"/>
+<path d="m971 215 10 10 19-22" stroke="#c6f6dc" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="809" cy="124" r="3" fill="#c6f6dc"/><circle cx="1100" cy="264" r="3" fill="#c6f6dc"/>
+<g font-family="monospace" font-size="11" fill="#9abbb7" letter-spacing="1"><text x="782" y="102">SOURCE</text><text x="1062" y="114">BUILD</text><text x="1022" y="336">MEASURE</text></g>
+</svg>
