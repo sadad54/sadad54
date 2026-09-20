@@ -1,0 +1,338 @@
+{
+  "updated": "2026-09-20",
+  "repositories": [
+    {
+      "name": "sentiment-analysis-app",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "software-engineer-foundations",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "sadad54",
+      "language": null,
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "freight-rate-ml",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "TrendSync-Mobile-App-Prototype",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "InstagramCloneMAP",
+      "language": "Dart",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "interviewpilot",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "driftline",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "ProjectOrganisation",
+      "language": "JavaScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "AuraMobile",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "neetcode-submissions",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "fitsyncgemini",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "driving-behaviour-app",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "smart-farm-dashboard",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "Shell-RepEx-2.0-Final",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "nexus-ai",
+      "language": "Vue",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "agentic-planner",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "quick-connect",
+      "language": "Astro",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "worldcup_predictor",
+      "language": "HTML",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "SAFE-RAG",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "keenify-todo",
+      "language": "JavaScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "ai-job-search",
+      "language": null,
+      "fork": true,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "HalalXperience-master--3-",
+      "language": "Dart",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "drape_ai",
+      "language": "Dart",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "aura-wellness",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "wc2026_predictor_final",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "fieldnote",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "finscout",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "ResumeGitProject",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "RespondDemo",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "smart-farm-website",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "MetricVis",
+      "language": "Vue",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "sadad54.github.io",
+      "language": null,
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "expensense",
+      "language": "Dart",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "nexus-inbox-final",
+      "language": "Vue",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "mindhive-chatbotfinal",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "chatbotZUS",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    }
+  ]
+}
