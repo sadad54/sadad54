@@ -25,7 +25,7 @@ Updated **2026-09-20** · **37 public repositories** · **7 primary languages**.
 
 | Primary language | Repositories |
 | :--- | ---: |
-| Python | 13 |
+| Python | 14 |
 | TypeScript | 10 |
 | Dart | 4 |
 | Vue | 3 |
