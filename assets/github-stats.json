@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "repositories": [
     {
       "name": "agentic-planner",
@@ -157,6 +157,15 @@
     {
       "name": "MetricVis",
       "language": "Vue",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "mindhive-backendAIEng-assessment",
+      "language": "Python",
       "fork": false,
       "private": false,
       "owner": {
