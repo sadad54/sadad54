@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "repositories": [
     {
       "name": "agentic-planner",
@@ -12,7 +12,7 @@
     },
     {
       "name": "ai-job-search",
-      "language": null,
+      "language": "Python",
       "fork": true,
       "private": false,
       "owner": {
