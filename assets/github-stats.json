@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "repositories": [
     {
       "name": "agentic-planner",
@@ -102,7 +102,7 @@
     },
     {
       "name": "fitsyncgemini",
-      "language": "Python",
+      "language": "TypeScript",
       "fork": false,
       "private": false,
       "owner": {
