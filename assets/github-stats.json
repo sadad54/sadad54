@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "repositories": [
     {
       "name": "agentic-planner",
@@ -245,6 +245,15 @@
       }
     },
     {
+      "name": "routine-hud",
+      "language": "TypeScript",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
       "name": "sadad54",
       "language": "Python",
       "fork": false,
@@ -264,6 +273,15 @@
     },
     {
       "name": "SAFE-RAG",
+      "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "scholarshipfinder",
       "language": "Python",
       "fork": false,
       "private": false,
