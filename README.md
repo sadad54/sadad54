@@ -21,12 +21,12 @@
 <summary>Numbers, minus the graphics</summary>
 
 <!-- STATS:START -->
-Updated **2026-11-01** · **41 public repositories** · **7 primary languages**.
+Updated **2026-11-02** · **42 public repositories** · **7 primary languages**.
 
 | Primary language | Repositories |
 | :--- | ---: |
 | Python | 16 |
-| TypeScript | 12 |
+| TypeScript | 13 |
 | Dart | 4 |
 | Vue | 3 |
 | JavaScript | 2 |

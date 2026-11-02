@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "repositories": [
     {
       "name": "agentic-planner",
@@ -112,6 +112,15 @@
     {
       "name": "freight-rate-ml",
       "language": "Python",
+      "fork": false,
+      "private": false,
+      "owner": {
+        "login": "sadad54"
+      }
+    },
+    {
+      "name": "gravity-digital-nextjs",
+      "language": "TypeScript",
       "fork": false,
       "private": false,
       "owner": {
